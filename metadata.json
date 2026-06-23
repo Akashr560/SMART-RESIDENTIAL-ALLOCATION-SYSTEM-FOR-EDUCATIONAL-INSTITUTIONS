@@ -1,0 +1,5 @@
+{
+  "name": "HostelFlow",
+  "description": "A comprehensive hostel room allocation system for students and administrators to manage room inventory, applications, and assignments.",
+  "requestFramePermissions": []
+}
