@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smart Residential Allocation System for Educational Institutions
 
-# Run and deploy your AI Studio app
+## Overview
+The Smart Residential Allocation System is a web-based application designed to automate hostel/residential allocation in educational institutions.
 
-This contains everything you need to run your app locally.
+## Features
+- Student registration
+- Automated room allocation
+- Admin dashboard
+- Room availability tracking
+- Allocation management
+- Database integration
 
-View your app in AI Studio: https://ai.studio/apps/c7ecb648-97a8-475a-8d72-86643db60a6d
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python / Java / PHP
+- Database: MySQL
 
-## Run Locally
+## Screenshots
+(Add project screenshots)
 
-**Prerequisites:**  Node.js
+## How to Run
+1. Clone repository
+2. Install required dependencies
+3. Run application
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Akash
